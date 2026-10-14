@@ -47,28 +47,28 @@
 047|REUSE 046 + slow zoom on the pale skin|
 048|DIAGRAM|Three stages left to right: hairy ancestor, less hair, bare skin|
 049|SCENE|Bare-skinned ancestor under a huge African sun, skin shading from pale to dark brown|
-050|SYMBOL|A DNA strand with one gene glowing brown|
+050|SYMBOL|A DNA double helix with one section glowing dark brown, highlighted with a red circle|
 051|TEXT CARD|Navy card, small sun icon|1.2 MILLION YEARS
-052|DIAGRAM|Very long timeline bar with a line of small bare ancestors walking along it|
+052|DIAGRAM|A very long horizontal timeline bar with a line of small bare-skinned ancestors walking along it|
 053|SCENE|A family of brown-skinned ancestors walking across the savanna with walking sticks, no clothes (simple stick bodies)|
 054|TEXT CARD|Navy card, white hand-lettered word|HOW?
-055|DIAGRAM|Ancestor covered in sweat drops next to a panting furry dog|
-056|DIAGRAM|Simple bar chart: a tall bar with a human icon, short bars with animal icons|
+055|DIAGRAM|A bare-skinned ancestor covered in sweat drops, smiling, next to a furry dog panting in the heat|
+056|DIAGRAM|Simple bar chart: one very tall bar with a human head icon, several short bars with animal icons (dog, horse, cat)|
 057|DIAGRAM|Close-up of skin with sweat drops evaporating, blue cooling arrows rising|
 058|SCENE|Ancestor hunter tracking an antelope across hot grassland at noon|
 059|REUSE 058 + slow pan to the tired animals resting in the shade|
-060|DIAGRAM|Split image: sun with heat arrows leaving a body / moon with heat arrows leaving the same body|
+060|DIAGRAM|Split image: left half a sun with red heat arrows leaving a stick body, right half a moon with the same red heat arrows leaving the same body|
 061|SCENE|Night, bare ancestor shivering in cold rain|
 062|REUSE 061 + slow zoom on the shivering figure|
 063|DIAGRAM|Map arrow from warm Africa up to cold northern lands with snowflakes|
 064|SCENE|Ice age landscape: glaciers, snow, tiny figures walking|
-065|DIAGRAM|A green tick under a sun and a red X under a snowflake|
-066|DIAGRAM|Timeline: fur lost early, a long gap, then a red arrow labeled cold pushing the coat into place|COLD
+065|DIAGRAM|A sun with a green tick under it on the left, a snowflake with a red X under it on the right|
+066|DIAGRAM|Timeline arrow: a bare ancestor icon early on the left, a long gap, then a big blue snowflake pushing a fur coat into place on the right with a red arrow|COLD
 067|SCENE|A blizzard sweeping in behind a group of bare ancestors|
 068|DIAGRAM|Three stages: thin fox, fluffier fox, very fluffy fox, arrow across|
 069|SCENE|Ancestor holding up an animal hide pelt (reference), proud|
 070|SCENE|Ancestor wearing the hide pelt over his shoulders, smiling|
-071|DIAGRAM|Hide being lifted off the shoulders with a curved arrow|
+071|DIAGRAM|An ancestor lifting a hide pelt off his shoulders, a curved red arrow showing it coming off|
 072|SCENE|Midday sun, ancestor tossing the hide aside and sweating|
 073|SCENE|Night, ancestor wrapped tightly in the hide, warm and calm|
 074|SCENE|Ancestor walking into a snowy valley, adding a second hide layer|
@@ -78,10 +78,10 @@
 078|SCENE|Ancestor with a hide over the back and feet wrapped in hide tied with cord|
 079|REUSE 078 + slow zoom on the wrapped feet|
 080|SCENE|Night, ancestors sleeping under the hide in a small shelter|
-081|DIAGRAM|One hide in the middle with arrows to three icons: blanket, bag, roof|
-082|DIAGRAM|A hide coat in the middle with four reason icons around it: sun, thorns, flies, snowflake|
+081|DIAGRAM|One hide pelt in the middle with three red arrows to three icons: a blanket, a bag, a small hut roof|
+082|DIAGRAM|A hide coat in the middle with four icons around it: a sun, thorns, a fly, a snowflake|
 083|SYMBOL|A campfire next to a hide pelt, side by side|
-084|SCENE|Ancestor wrapped in a hide walking through snow inside a warm glowing bubble|
+084|SCENE|An ancestor wrapped in a hide walking through a snowy landscape inside a warm orange glowing bubble|
 085|SYMBOL|A big magnifying glass over a question mark|
 086|DIAGRAM|Simple map of North Africa's Atlantic coast with a red pin on Morocco, label|MOROCCO
 087|SCENE|A cave mouth in a coastal cliff above the Atlantic waves, label|SMUGGLERS' CAVE
@@ -91,7 +91,7 @@
 091|DIAGRAM|Before/after: stiff raw hide, arrow, soft folded leather|
 092|SYMBOL|Small animal bones laid out on a table|
 093|DIAGRAM|Lineup of three animals: sand fox, golden jackal, wild cat|
-094|DIAGRAM|A bone with cut marks circled in red under a magnifying glass, label|SKINNING, NOT MEAT
+094|DIAGRAM|A small animal bone with cut marks circled in red under a magnifying glass|SKINNING, NOT MEAT
 095|DIAGRAM|A tiny fox next to a tiny piece of meat and a big fluffy fur|
 096|SCENE|Ancient people proudly holding up fox furs|
 097|SCENE|An ancient hide workshop: hides stretched on frames, people scraping, tools everywhere|
@@ -113,7 +113,7 @@
 113|SCENE|Blizzard: a modern human in a fitted fur suit next to a Neanderthal in a loose cape|
 114|DIAGRAM|Side by side: loose cape vs tailored suit, label|CAPE VS SUIT
 115|MOOD|Navy background, a balance scale with a question mark|
-116|DIAGRAM|A fading Neanderthal with several arrows pointing in: snowflake, small group, sickness icon|
+116|DIAGRAM|A Neanderthal fading out, with several red arrows pointing at him from icons: a snowflake, a small group, a sickness thermometer|
 117|SYMBOL|The bone needle (reference) on a small pedestal, glowing|
 118|SCENE|A Neanderthal shivering in his cape, main character scratching his head|
 119|SCENE|The Neanderthal with arms crossed, slightly offended|
@@ -127,7 +127,7 @@
 127|SYMBOL|A round brown bear fur hat|
 128|SYMBOL|A coat stitched from striped patches of goat and sheep leather|
 129|SYMBOL|A leather shoe in cut-away view with a bearskin sole and grass stuffing|
-130|DIAGRAM|Ötzi's hat, coat and shoes in a neat row like a product lineup|
+130|DIAGRAM|Ötzi’s bear fur hat, patchwork leather coat and grass-stuffed shoes laid out in a neat row like a product lineup|
 131|DIAGRAM|Blueprint-style coat drawing with measurement lines and stitches|
 132|SCENE|A group of ancient people in different clothes, small speech bubbles coming from the clothes|
 133|SYMBOL|A cape with shells sewn on in rows|
@@ -135,7 +135,7 @@
 135|SCENE|A chief in a spotted fur cloak while others stand back in plain hides|
 136|DIAGRAM|Three figures in different outfits with labels|HOME · GROUP · RANK
 137|SCENE|An elder pointing sternly at a clothing rule chart made of icons|
-138|DIAGRAM|Simple body outline with areas shaded, plus small place and people icons|
+138|DIAGRAM|A simple stick figure outline next to small icons of a house, a temple and a crowd, with some body areas shaded|
 139|DIAGRAM|World map with different clothing styles in different places|
 140|SCENE|A warm tropical village, people wearing very little, relaxed and smiling|
 141|SCENE|A strict village, one person scolded by a disapproving crowd|
