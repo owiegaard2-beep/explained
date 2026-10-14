@@ -1,0 +1,157 @@
+001|SCENE|Main character stands in an open front doorway with no clothes, arms covering himself, embarrassed (simple stick body, no details)|
+002|SCENE|Close-up of main character's face glowing bright red, three neighbour stick figures staring with wide eyes|
+003|MOOD|Navy background, main character small in the corner hiding his face in his hands|
+004|SYMBOL|A big friendly brown bear with thick fur, centered|
+005|DIAGRAM|Lineup of three animals: bear, bird, snake, labels under each|FUR · FEATHERS · SCALES
+006|SYMBOL|A crab carrying a yellow sponge on its back as a disguise|
+007|SCENE|Bear, bird and snake sitting in falling snow, none of them wearing anything, totally fine|
+008|SCENE|Main character putting on a coat while the animals watch him, puzzled|
+009|TEXT CARD|Navy card, small hide pelt icon below|WHEN AND WHY?
+010|SCENE|Archaeologist stick figure at an empty dig pit, shrugging, nothing found|
+011|DIAGRAM|Three closed mystery boxes in a row, each with a question mark|
+012|DIAGRAM|Three clue icons in a row: a louse, a patch of skin, a pile of bone tools|
+013|REUSE 012 + slow zoom on the bone tools|
+014|MOOD|Navy background, main character in his clothes looking at a big question mark, worried|
+015|SYMBOL|A stone handaxe sitting in layers of soil, solid and intact|
+016|DIAGRAM|Soil cross-section with the handaxe deep down, label|1,000,000 YEARS
+017|SCENE|Ancient woman stick figure holding soft things: a hide, fur, a grass bundle, bark|
+018|DIAGRAM|Underground cross-section: a buried hide being eaten by beetles, worms and tiny bacteria|
+019|SYMBOL|A half-rotted hide crumbling away to dust|
+020|SCENE|Archaeologist digging and finding only an empty coat-shaped outline|
+021|DIAGRAM|Dashed outline of a missing coat with arrows pointing to things around it: tools, bones, a louse|
+022|SYMBOL|A magnifying glass revealing something tiny moving inside a seam|
+023|SYMBOL|The louse (reference) crawling along a fabric seam, big and centered|
+024|DIAGRAM|Two lice side by side, labels under each|HEAD LICE · BODY LICE
+025|SCENE|Close-up of the main character's hair with tiny lice clinging to strands|
+026|DIAGRAM|Body louse with a red X over bare skin and a green tick over a shirt|
+027|SCENE|Extreme close-up of an orange shirt seam with lice hiding in the stitches|
+028|REUSE 027 + slow zoom into the seam|
+029|DIAGRAM|Louse climbing out of the seam onto skin with a curved red arrow|
+030|DIAGRAM|Before/after: shirt with lice / no shirt with no lice, label|NO CLOTHES, NO LICE
+031|SYMBOL|A forked twig: one louse at the base, a head louse on one tip and a body louse on the other|
+032|DIAGRAM|Same split, the fork point highlighted with a small shirt icon and a red circle|
+033|SYMBOL|A DNA double helix with a clock face in the middle|
+034|DIAGRAM|Two DNA strands side by side, differences marked with red dots, a tally counting them|
+035|TEXT CARD|Navy card, small louse icon|107,000 YEARS
+036|DIAGRAM|Timeline bar with a dot at 107,000 and a wide fuzzy error range around it|
+037|DIAGRAM|Timeline bar with a highlighted range, label|83,000–170,000 YEARS
+038|REUSE 037 + slow zoom on the far end of the range|
+039|DIAGRAM|Long timeline: hide icon far left, then a field, a town, a scroll far right|
+040|SCENE|Ancient people by a cave wrapping hides around their shoulders|
+041|SCENE|Main character with a magnifying glass and a lightbulb glowing above his head|
+042|SCENE|Main character pointing at a big red button, label on button|SUBSCRIBE
+043|DIAGRAM|A small crowd icon with one big speech bubble containing a snowflake|
+044|DIAGRAM|A snowflake next to a clock with a question mark between them|
+045|DIAGRAM|Timeline arrow: furry ancestor far left, bare ancestor, a long gap, then a coat far right|
+046|SYMBOL|A chimpanzee with dark hair, a cut-away circle showing pale skin underneath|
+047|REUSE 046 + slow zoom on the pale skin|
+048|DIAGRAM|Three stages left to right: hairy ancestor, less hair, bare skin|
+049|SCENE|Bare-skinned ancestor under a huge African sun, skin shading from pale to dark brown|
+050|SYMBOL|A DNA strand with one gene glowing brown|
+051|TEXT CARD|Navy card, small sun icon|1.2 MILLION YEARS
+052|DIAGRAM|Very long timeline bar with a line of small bare ancestors walking along it|
+053|SCENE|A family of brown-skinned ancestors walking across the savanna with walking sticks, no clothes (simple stick bodies)|
+054|TEXT CARD|Navy card, white hand-lettered word|HOW?
+055|DIAGRAM|Ancestor covered in sweat drops next to a panting furry dog|
+056|DIAGRAM|Simple bar chart: a tall bar with a human icon, short bars with animal icons|
+057|DIAGRAM|Close-up of skin with sweat drops evaporating, blue cooling arrows rising|
+058|SCENE|Ancestor hunter tracking an antelope across hot grassland at noon|
+059|REUSE 058 + slow pan to the tired animals resting in the shade|
+060|DIAGRAM|Split image: sun with heat arrows leaving a body / moon with heat arrows leaving the same body|
+061|SCENE|Night, bare ancestor shivering in cold rain|
+062|REUSE 061 + slow zoom on the shivering figure|
+063|DIAGRAM|Map arrow from warm Africa up to cold northern lands with snowflakes|
+064|SCENE|Ice age landscape: glaciers, snow, tiny figures walking|
+065|DIAGRAM|A green tick under a sun and a red X under a snowflake|
+066|DIAGRAM|Timeline: fur lost early, a long gap, then a red arrow labeled cold pushing the coat into place|COLD
+067|SCENE|A blizzard sweeping in behind a group of bare ancestors|
+068|DIAGRAM|Three stages: thin fox, fluffier fox, very fluffy fox, arrow across|
+069|SCENE|Ancestor holding up an animal hide pelt (reference), proud|
+070|SCENE|Ancestor wearing the hide pelt over his shoulders, smiling|
+071|DIAGRAM|Hide being lifted off the shoulders with a curved arrow|
+072|SCENE|Midday sun, ancestor tossing the hide aside and sweating|
+073|SCENE|Night, ancestor wrapped tightly in the hide, warm and calm|
+074|SCENE|Ancestor walking into a snowy valley, adding a second hide layer|
+075|TEXT CARD|Navy card, small hide pelt icon|100,000 YEARS AGO
+076|SCENE|Ancestor in dry thorny scrub under a burning sun, shoulders glowing red|
+077|SCENE|Thorns scratching the ancestor's legs, flies landing on the scratches|
+078|SCENE|Ancestor with a hide over the back and feet wrapped in hide tied with cord|
+079|REUSE 078 + slow zoom on the wrapped feet|
+080|SCENE|Night, ancestors sleeping under the hide in a small shelter|
+081|DIAGRAM|One hide in the middle with arrows to three icons: blanket, bag, roof|
+082|DIAGRAM|A hide coat in the middle with four reason icons around it: sun, thorns, flies, snowflake|
+083|SYMBOL|A campfire next to a hide pelt, side by side|
+084|SCENE|Ancestor wrapped in a hide walking through snow inside a warm glowing bubble|
+085|SYMBOL|A big magnifying glass over a question mark|
+086|DIAGRAM|Simple map of North Africa's Atlantic coast with a red pin on Morocco, label|MOROCCO
+087|SCENE|A cave mouth in a coastal cliff above the Atlantic waves, label|SMUGGLERS' CAVE
+088|TEXT CARD|Navy card, small bone tool icon|90,000–120,000 YEARS
+089|SYMBOL|Dozens of smooth bone tools laid out in a neat row|
+090|SCENE|Hands scraping a hide with a bone tool|
+091|DIAGRAM|Before/after: stiff raw hide, arrow, soft folded leather|
+092|SYMBOL|Small animal bones laid out on a table|
+093|DIAGRAM|Lineup of three animals: sand fox, golden jackal, wild cat|
+094|DIAGRAM|A bone with cut marks circled in red under a magnifying glass, label|SKINNING, NOT MEAT
+095|DIAGRAM|A tiny fox next to a tiny piece of meat and a big fluffy fur|
+096|SCENE|Ancient people proudly holding up fox furs|
+097|SCENE|An ancient hide workshop: hides stretched on frames, people scraping, tools everywhere|
+098|SYMBOL|An empty museum display case with a single question mark inside|
+099|DIAGRAM|Three clues in a row: bone tools, animal bones, a louse|
+100|SYMBOL|The bone needle (reference), huge, its eye glowing|
+101|SCENE|Ice Age Europe: snowy plains, freezing wind lines, mammoths in the distance|
+102|SCENE|A group of Neanderthals (stocky stick figures, heavy brows) around a fire in the snow|
+103|SCENE|A Neanderthal with a hide draped over the shoulders like a cape|
+104|REUSE 103 + slow zoom on the cape|
+105|DIAGRAM|The cape with blue wind arrows getting in through the gaps|
+106|SCENE|Modern humans arriving over a snowy hill holding small bone needles|
+107|REUSE 100 + slow zoom on the needle's eye|
+108|TEXT CARD|Navy card, small bone needle icon|40,000–50,000 YEARS
+109|DIAGRAM|Needle and thread joining two hide pieces, exploded view|
+110|DIAGRAM|Flat hide pattern pieces turning into a fitted coat|
+111|SYMBOL|A fur sleeve, a pair of leggings and a hood laid out together|
+112|DIAGRAM|Cross-section of fitted clothing with a warm red air layer trapped against the body|
+113|SCENE|Blizzard: a modern human in a fitted fur suit next to a Neanderthal in a loose cape|
+114|DIAGRAM|Side by side: loose cape vs tailored suit, label|CAPE VS SUIT
+115|MOOD|Navy background, a balance scale with a question mark|
+116|DIAGRAM|A fading Neanderthal with several arrows pointing in: snowflake, small group, sickness icon|
+117|SYMBOL|The bone needle (reference) on a small pedestal, glowing|
+118|SCENE|A Neanderthal shivering in his cape, main character scratching his head|
+119|SCENE|The Neanderthal with arms crossed, slightly offended|
+120|SYMBOL|Dashed outline of a missing coat, glowing faintly|
+121|REUSE 120 + slow zoom out|
+122|TEXT CARD|Navy card, small mountain icon|5,300 YEARS AGO
+123|SCENE|A high snowy Alpine pass, a lone figure walking|
+124|SCENE|Two 1990s hikers with backpacks pointing at a shape in the ice (gentle, not scary)|
+125|TEXT CARD|Navy card, small ice icon|1991
+126|SCENE|Ötzi as a stick figure, fully dressed: bear fur hat, patchwork leather coat, shoes|
+127|SYMBOL|A round brown bear fur hat|
+128|SYMBOL|A coat stitched from striped patches of goat and sheep leather|
+129|SYMBOL|A leather shoe in cut-away view with a bearskin sole and grass stuffing|
+130|DIAGRAM|Ötzi's hat, coat and shoes in a neat row like a product lineup|
+131|DIAGRAM|Blueprint-style coat drawing with measurement lines and stitches|
+132|SCENE|A group of ancient people in different clothes, small speech bubbles coming from the clothes|
+133|SYMBOL|A cape with shells sewn on in rows|
+134|SYMBOL|A clay dye pot with purple cloth soaking|
+135|SCENE|A chief in a spotted fur cloak while others stand back in plain hides|
+136|DIAGRAM|Three figures in different outfits with labels|HOME · GROUP · RANK
+137|SCENE|An elder pointing sternly at a clothing rule chart made of icons|
+138|DIAGRAM|Simple body outline with areas shaded, plus small place and people icons|
+139|DIAGRAM|World map with different clothing styles in different places|
+140|SCENE|A warm tropical village, people wearing very little, relaxed and smiling|
+141|SCENE|A strict village, one person scolded by a disapproving crowd|
+142|MOOD|Dark red background, a lone figure hiding in shame|
+143|REUSE 002 + slow zoom on the red face|
+144|SCENE|A giggling toddler running from the bath, parent chasing with a towel|
+145|DIAGRAM|A chain of people from old to young passing a red blush icon down the line|
+146|REUSE 145 + slow pan to the oldest figure|
+147|DIAGRAM|Clothing evolution lineup with an arrow: hide pelt, fur parka, shell cape, robe, denim jacket|
+148|SCENE|A street of modern people in many different styles|
+149|DIAGRAM|Recap: furry ancestor, arrow, bare ancestor|
+150|DIAGRAM|Recap: snow, arrow, ancestor wrapped in hide|
+151|REUSE 147 + slow zoom out|
+152|SCENE|Main character facing the viewer with a big question mark above him|
+153|SCENE|Main character dropped into the ice age, holding one modern item, thought bubble with a jacket, boots and a beanie|
+154|SCENE|Main character pointing at a big speech bubble icon|
+155|MOOD|Navy night, ancient people shivering under a moon, unable to sleep|
+156|REUSE 155 + slow zoom on the shivering people|
+157|REUSE 042 + slow zoom on the button|
