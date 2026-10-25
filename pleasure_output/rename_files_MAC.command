@@ -5,13 +5,13 @@
 #  HOW TO USE: put this file in the folder with your Higgsfield downloads,
 #  then in Terminal type:   bash rename_files_MAC.command
 #
-#  WHAT YOU GET (in timeline order, sorts correctly by name):
-#    001.png ... = a NEW image
-#    016 REUSE of 006 - zoom in.png  = the SAME picture as slot 006.
-#        Put it on the timeline like any other file, but add the zoom/pan
-#        written in the name so it does not look like a frozen repeat.
+#  WHAT YOU GET: 217 files named 001.png to 217.png, one per slot.
+#  Every slot has its own file, including the reuse slots (for example
+#  016.png is a copy of 006.png), so you can select all 217 files and drag
+#  them onto the timeline in one go. Each file is 2 seconds.
 #
-#  25 REUSE slots in this video:
+#  The 25 reuse slots are listed below and marked ">>> copy of" in Terminal.
+#  On those, add the zoom or pan so they don't look like a frozen repeat:
 #    016  <- reuses 006   (slow zoom in on the flames)
 #    045  <- reuses 017   (slow pan right across the darkness)
 #    059  <- reuses 057   (slow zoom in on the circled tusk)
@@ -38,8 +38,8 @@
 #    210  <- reuses 057   (slow zoom out)
 #    216  <- reuses 005   (slow zoom out)
 #
-#  Safe to run more than once, and also fixes folders where the OLD renamer
-#  already ran (it renames the old plain copies to the new REUSE names).
+#  Safe to run more than once. Also fixes folders where the previous renamer
+#  already ran: "016 REUSE of 006 - zoom in.png" becomes "016.png".
 # ============================================================================
 cd "$(dirname "$0")" || exit 1
 missing=0
@@ -54,13 +54,12 @@ new(){  # slot  job-id
 }
 
 reuse(){  # slot  source-slot  move
-  name="$1 REUSE of $2 - $3"
-  if ls "$name".* >/dev/null 2>&1; then echo "$1   >>> REUSE of $2  ($3)"; return; fi
+  for f in "$1 REUSE of "*; do [ -e "$f" ] && mv -n "$f" "$1.${f##*.}"; done   # names from the previous renamer
+  if ls "$1".* >/dev/null 2>&1; then echo "$1   >>> copy of $2  (add $3)"; return; fi
   src=$(ls "$2".* 2>/dev/null | head -1)
-  if [ -z "$src" ]; then echo "$1   !!! cannot reuse - $2 is missing"; missing=$((missing+1)); return; fi
-  ext="${src##*.}"
-  if [ -e "$1.$ext" ]; then mv -n "$1.$ext" "$name.$ext"; else cp "$src" "$name.$ext"; fi
-  echo "$1   >>> REUSE of $2  ($3)"
+  if [ -z "$src" ]; then echo "$1   !!! cannot copy - $2 is missing"; missing=$((missing+1)); return; fi
+  cp "$src" "$1.${src##*.}"
+  echo "$1   >>> copy of $2  (add $3)"
 }
 
 ref(){  # job-id  name
@@ -296,8 +295,8 @@ ref 7b7fabc2-64ee-45b0-8c1d-f53af6e83c51 "REF SENET"
 ref 6816318d-da11-4010-ac57-5b147ddd3009 "REF BRAIN"
 
 echo "-------------------------------------------------------------"
-echo "Done: 192 new images + 25 REUSE copies = 217 timeline files."
-echo "Files with REUSE in the name show the same picture as an earlier slot:"
-echo "add the zoom or pan from the name so they don't look frozen."
-echo "Every file is 2 seconds. The last one (217) only needs 1 second."
+echo "Done: 192 new images + 25 copies = 217 files, 001.png to 217.png."
+echo "Select all 217 and drag them onto the timeline in one go (2 seconds each)."
+echo "The >>> lines above are copies of an earlier slot: add the zoom or pan there."
+echo "The last image (217) only needs 1 second."
 if [ "$missing" -gt 0 ]; then echo "WARNING: $missing slot(s) missing - see the !!! lines above."; fi

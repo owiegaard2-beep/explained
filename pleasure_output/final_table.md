@@ -17,7 +17,7 @@
 | 013 | 0:24–0:26 | you invent fun. Music, | TEXT CARD | 013.png | slow zoom in |
 | 014 | 0:26–0:28 | gambling, board games, | DIAGRAM | 014.png | slow pan right |
 | 015 | 0:28–0:30 | even the first movie night. All of it | SCENE | 015.png | slow zoom out |
-| 016 | 0:30–0:32 | starts right here, with a bored | REUSE of 006 | 016 REUSE of 006 - zoom in.png | slow zoom in on the flames |
+| 016 | 0:30–0:32 | starts right here, with a bored | REUSE of 006 | 016.png (copy of 006) | slow zoom in on the flames |
 | 017 | 0:32–0:34 | human sitting in the dark. | MOOD | 017.png | slow zoom in |
 | 018 | 0:34–0:36 | Here's the thing most of us get | SCENE | 018.png | slow pan right |
 | 019 | 0:36–0:38 | wrong about our ancestors. We tend to | DIAGRAM | 019.png | slow zoom out |
@@ -46,7 +46,7 @@
 | 042 | 1:22–1:24 | It's built to search for patterns and | DIAGRAM | 042.png | slow pan right |
 | 043 | 1:24–1:26 | crave something new. Give it hours | SYMBOL | 043.png | slow zoom out |
 | 044 | 1:26–1:28 | of daylight and a long | DIAGRAM | 044.png | slow pan left |
-| 045 | 1:28–1:30 | dark evening with nothing in them, | REUSE of 017 | 045 REUSE of 017 - pan right.png | slow pan right across the darkness |
+| 045 | 1:28–1:30 | dark evening with nothing in them, | REUSE of 017 | 045.png (copy of 017) | slow pan right across the darkness |
 | 046 | 1:30–1:32 | and it starts to protest. Staring at the | SYMBOL | 046.png | slow pan right |
 | 047 | 1:32–1:34 | ground isn't going to cut it. | SCENE | 047.png | slow zoom out |
 | 048 | 1:34–1:36 | That restless feeling has a name. | SCENE | 048.png | slow pan left |
@@ -60,14 +60,14 @@
 | 056 | 1:50–1:52 | something remarkable. A flute | SYMBOL | 056.png | slow pan left |
 | 057 | 1:52–1:54 | carved from mammoth tusk | SYMBOL | 057.png | slow zoom in |
 | 058 | 1:54–1:56 | around 40,000 years old. | TEXT CARD | 058.png | slow pan right |
-| 059 | 1:56–1:58 | Mammoth ivory is tough, | REUSE of 057 | 059 REUSE of 057 - zoom in.png | slow zoom in on the circled tusk |
+| 059 | 1:56–1:58 | Mammoth ivory is tough, | REUSE of 057 | 059.png (copy of 057) | slow zoom in on the circled tusk |
 | 060 | 1:58–2:00 | dense material. A nightmare to | DIAGRAM | 060.png | slow pan left |
 | 061 | 2:00–2:02 | work even with today's metal tools. | SCENE | 061.png | slow zoom in |
 | 062 | 2:02–2:04 | Yet someone armed only with sharpened | SCENE | 062.png | slow pan right |
 | 063 | 2:04–2:06 | stone split the tusk in two, | DIAGRAM | 063.png | slow zoom out |
 | 064 | 2:06–2:08 | scraped out the inside, | SCENE | 064.png | slow pan left |
 | 065 | 2:08–2:10 | joined the halves back together, and bored a | DIAGRAM | 065.png | slow zoom in |
-| 066 | 2:10–2:12 | row of carefully placed finger holes. | REUSE of 053 | 066 REUSE of 053 - zoom in.png | slow zoom in on the finger holes |
+| 066 | 2:10–2:12 | row of carefully placed finger holes. | REUSE of 053 | 066.png (copy of 053) | slow zoom in on the finger holes |
 | 067 | 2:12–2:14 | That could easily have taken | SCENE | 067.png | slow zoom out |
 | 068 | 2:14–2:16 | dozens or even hundreds of hours. | DIAGRAM | 068.png | slow pan left |
 | 069 | 2:16–2:18 | One tiny slip and all that | SCENE | 069.png | slow zoom in |
@@ -79,10 +79,10 @@
 | 075 | 2:28–2:30 | in the dark. Consider how | MOOD | 075.png | slow zoom out |
 | 076 | 2:30–2:32 | wild that is. Back then, a small | SCENE | 076.png | slow pan left |
 | 077 | 2:32–2:34 | cut could turn deadly. And still, someone | SYMBOL | 077.png | slow zoom in |
-| 078 | 2:34–2:36 | spent all that time and effort | REUSE of 067 | 078 REUSE of 067 - zoom in.png | slow zoom in on the carving hands |
+| 078 | 2:34–2:36 | spent all that time and effort | REUSE of 067 | 078.png (copy of 067) | slow zoom in on the carving hands |
 | 079 | 2:36–2:38 | on something that existed purely | SYMBOL | 079.png | slow zoom out |
 | 080 | 2:38–2:40 | for the mood. Music did more | MOOD | 080.png | slow pan left |
-| 081 | 2:40–2:42 | than fill the silence, though. | REUSE of 075 | 081 REUSE of 075 - zoom out.png | slow zoom out |
+| 081 | 2:40–2:42 | than fill the silence, though. | REUSE of 075 | 081.png (copy of 075) | slow zoom out |
 | 082 | 2:42–2:44 | It held groups together. | SCENE | 082.png | slow pan right |
 | 083 | 2:44–2:46 | Play a beat around the fire with other people, | SCENE | 083.png | slow zoom out |
 | 084 | 2:46–2:48 | and your breathing starts to match theirs. | DIAGRAM | 084.png | slow pan left |
@@ -91,7 +91,7 @@
 | 087 | 2:52–2:54 | A scattered band of nervous, | SCENE | 087.png | slow zoom out |
 | 088 | 2:54–2:56 | vulnerable apes becomes a team. | SCENE | 088.png | slow pan left |
 | 089 | 2:56–2:58 | On the longest winter nights, | MOOD | 089.png | slow zoom in |
-| 090 | 2:58–3:00 | that shared rhythm may have been what | REUSE of 083 | 090 REUSE of 083 - zoom in.png | slow zoom in on the drum |
+| 090 | 2:58–3:00 | that shared rhythm may have been what | REUSE of 083 | 090.png (copy of 083) | slow zoom in on the drum |
 | 091 | 3:00–3:02 | kept people from turning on each other. | SCENE | 091.png | slow zoom out |
 | 092 | 3:02–3:04 | Still, even the best song gets repetitive. | DIAGRAM | 092.png | slow pan left |
 | 093 | 3:04–3:06 | And we're a species built | SCENE | 093.png | slow zoom in |
@@ -101,16 +101,16 @@
 | 097 | 3:12–3:14 | You're warm. You're fed. | SCENE | 097.png | slow zoom in |
 | 098 | 3:14–3:16 | You're safe. And you haven't felt | DIAGRAM | 098.png | slow pan right |
 | 099 | 3:16–3:18 | that rush in days. You're restless. | MOOD | 099.png | slow zoom out |
-| 100 | 3:18–3:20 | You're itching for something to happen. | REUSE of 048 | 100 REUSE of 048 - zoom in.png | slow zoom in on the drumming fingers |
+| 100 | 3:18–3:20 | You're itching for something to happen. | REUSE of 048 | 100.png (copy of 048) | slow zoom in on the drumming fingers |
 | 101 | 3:20–3:22 | What fills the gap? | DIAGRAM | 101.png | slow zoom in |
 | 102 | 3:22–3:24 | A game. Archaeologists keep turning | SYMBOL | 102.png | slow pan right |
 | 103 | 3:24–3:26 | up one particular kind of object | SCENE | 103.png | slow zoom out |
 | 104 | 3:26–3:28 | at sites all over the world, | DIAGRAM | 104.png | slow pan left |
-| 105 | 3:28–3:30 | separated by vast distances and | REUSE of 104 | 105 REUSE of 104 - pan.png | slow pan across the map |
+| 105 | 3:28–3:30 | separated by vast distances and | REUSE of 104 | 105.png (copy of 104) | slow pan across the map |
 | 106 | 3:30–3:32 | thousands of years. Small ankle bones | DIAGRAM | 106.png | slow pan right |
 | 107 | 3:32–3:34 | from sheep, goats, and deer. | DIAGRAM | 107.png | slow zoom out |
 | 108 | 3:34–3:36 | These are astragali, better | SYMBOL | 108.png | slow pan left |
-| 109 | 3:36–3:38 | known as knuckle bones. | REUSE of 108 | 109 REUSE of 108 - zoom out.png | slow zoom out |
+| 109 | 3:36–3:38 | known as knuckle bones. | REUSE of 108 | 109.png (copy of 108) | slow zoom out |
 | 110 | 3:38–3:40 | Their uneven shape means they settle on a different side | DIAGRAM | 110.png | slow pan right |
 | 111 | 3:40–3:42 | depending on how they're tossed. | SCENE | 111.png | slow zoom out |
 | 112 | 3:42–3:44 | In other words, they're random. | SYMBOL | 112.png | slow pan left |
@@ -123,9 +123,9 @@
 | 119 | 3:56–3:58 | your warm fur on a bad throw, | SCENE | 119.png | slow zoom out |
 | 120 | 3:58–4:00 | with winter on the way. Thousands of | MOOD | 120.png | slow pan left |
 | 121 | 4:00–4:02 | years before coins, casinos, or | DIAGRAM | 121.png | slow zoom in |
-| 122 | 4:02–4:04 | stock exchanges, people were staking | REUSE of 121 | 122 REUSE of 121 - pan right.png | slow pan right to the stock chart |
+| 122 | 4:02–4:04 | stock exchanges, people were staking | REUSE of 121 | 122.png (copy of 121) | slow pan right to the stock chart |
 | 123 | 4:04–4:06 | the very things that kept them alive | SCENE | 123.png | slow zoom out |
-| 124 | 4:06–4:08 | on the tumble of a little bone. | REUSE of 102 | 124 REUSE of 102 - zoom in.png | slow zoom in on one knucklebone |
+| 124 | 4:06–4:08 | on the tumble of a little bone. | REUSE of 102 | 124.png (copy of 102) | slow zoom in on one knucklebone |
 | 125 | 4:08–4:10 | Greed wasn't really the point. | DIAGRAM | 125.png | slow zoom in |
 | 126 | 4:10–4:12 | The thrill was. Risk made | SCENE | 126.png | slow pan right |
 | 127 | 4:12–4:14 | a quiet evening feel exciting. | MOOD | 127.png | slow zoom out |
@@ -143,11 +143,11 @@
 | 139 | 4:36–4:38 | the soul had to get past. | SCENE | 139.png | slow zoom out |
 | 140 | 4:38–4:40 | Moving your pieces became a kind of practice run | DIAGRAM | 140.png | slow pan left |
 | 141 | 4:40–4:42 | for the journey after death. | SCENE | 141.png | slow zoom in |
-| 142 | 4:42–4:44 | It mattered so much that Senet | REUSE of 132 | 142 REUSE of 132 - zoom in.png | slow zoom in on the board |
+| 142 | 4:42–4:44 | It mattered so much that Senet | REUSE of 132 | 142.png (copy of 132) | slow zoom in on the board |
 | 143 | 4:44–4:46 | boards were buried with the dead, | SCENE | 143.png | slow zoom out |
 | 144 | 4:46–4:48 | including several in the tomb of Tutankhamen. | SCENE | 144.png | slow pan left |
 | 145 | 4:48–4:50 | A simple pastime had become | DIAGRAM | 145.png | slow zoom in |
-| 146 | 4:50–4:52 | something sacred. Not everyone wants | REUSE of 136 | 146 REUSE of 136 - zoom in.png | slow zoom in on the glow |
+| 146 | 4:50–4:52 | something sacred. Not everyone wants | REUSE of 136 | 146.png (copy of 136) | slow zoom in on the glow |
 | 147 | 4:52–4:54 | to play, of course. Sometimes you just | SCENE | 147.png | slow zoom out |
 | 148 | 4:54–4:56 | want to sit back and watch something. | SCENE | 148.png | slow pan left |
 | 149 | 4:56–4:58 | And while there were no movie theaters | SYMBOL | 149.png | slow zoom in |
@@ -156,7 +156,7 @@
 | 152 | 5:02–5:04 | Chauvet Cave in southern France, | DIAGRAM | 152.png | slow pan left |
 | 153 | 5:04–5:06 | far from any daylight, | MOOD | 153.png | slow zoom in |
 | 154 | 5:06–5:08 | the walls are covered with lions, | SCENE | 154.png | slow pan right |
-| 155 | 5:08–5:10 | rhinos, and horses painted more than | REUSE of 154 | 155 REUSE of 154 - pan right.png | slow pan right across the animals |
+| 155 | 5:08–5:10 | rhinos, and horses painted more than | REUSE of 154 | 155.png (copy of 154) | slow pan right across the animals |
 | 156 | 5:10–5:12 | 30,000 years ago. Under modern | TEXT CARD | 156.png | slow pan left |
 | 157 | 5:12–5:14 | electric lights, they look like | SCENE | 157.png | slow zoom in |
 | 158 | 5:14–5:16 | a still gallery. But they were never meant | SCENE | 158.png | slow pan right |
@@ -169,13 +169,13 @@
 | 165 | 5:28–5:30 | Shadows shift and stretch. | MOOD | 165.png | slow zoom in |
 | 166 | 5:30–5:32 | Imagine sitting there in the dark, | SCENE | 166.png | slow pan right |
 | 167 | 5:32–5:34 | listening to a story about a hunt, | SCENE | 167.png | slow zoom out |
-| 168 | 5:34–5:36 | while the walls appear to move around you. | REUSE of 162 | 168 REUSE of 162 - pan.png | slow pan across the moving animals |
+| 168 | 5:34–5:36 | while the walls appear to move around you. | REUSE of 162 | 168.png (copy of 162) | slow pan across the moving animals |
 | 169 | 5:36–5:38 | That's about as close to the first | SCENE | 169.png | slow zoom in |
 | 170 | 5:38–5:40 | cinema as it gets. For most of | TEXT CARD | 170.png | slow pan right |
 | 171 | 5:40–5:42 | human history, then, entertainment | DIAGRAM | 171.png | slow zoom out |
 | 172 | 5:42–5:44 | cost nothing. Music, games, | SYMBOL | 172.png | slow pan left |
 | 173 | 5:44–5:46 | and stories were homemade | DIAGRAM | 173.png | slow zoom in |
-| 174 | 5:46–5:48 | and shared. That changed | REUSE of 082 | 174 REUSE of 082 - zoom out.png | slow zoom out |
+| 174 | 5:46–5:48 | and shared. That changed | REUSE of 082 | 174.png (copy of 082) | slow zoom out |
 | 175 | 5:48–5:50 | with one invention. The city. | SCENE | 175.png | slow zoom out |
 | 176 | 5:50–5:52 | Roughly 6,000 years ago | TEXT CARD | 176.png | slow pan left |
 | 177 | 5:52–5:54 | in Mesopotamia, people began leaving small | DIAGRAM | 177.png | slow zoom in |
@@ -188,34 +188,34 @@
 | 184 | 6:06–6:08 | But a city is full of strangers. | SCENE | 184.png | slow pan left |
 | 185 | 6:08–6:10 | And dealing with strangers means trading. | DIAGRAM | 185.png | slow zoom in |
 | 186 | 6:10–6:12 | Fairly quickly, fun turned | DIAGRAM | 186.png | slow pan right |
-| 187 | 6:12–6:14 | into business. Music now came | REUSE of 186 | 187 REUSE of 186 - zoom in.png | slow zoom in on the silver |
+| 187 | 6:12–6:14 | into business. Music now came | REUSE of 186 | 187.png (copy of 186) | slow zoom in on the silver |
 | 188 | 6:14–6:16 | from paid performers at the tavern. | SCENE | 188.png | slow pan left |
 | 189 | 6:16–6:18 | Beer had a price, | SYMBOL | 189.png | slow zoom in |
 | 190 | 6:18–6:20 | settled in barley or silver. | DIAGRAM | 190.png | slow pan right |
 | 191 | 6:20–6:22 | So did sex. Mesopotamian records | MOOD | 191.png | slow zoom out |
 | 192 | 6:22–6:24 | mention taverns, drinking debts, | SYMBOL | 192.png | slow pan left |
-| 193 | 6:24–6:26 | and paid sex work alongside | REUSE of 191 | 193 REUSE of 191 - zoom in.png | slow zoom in on the heart sign |
+| 193 | 6:24–6:26 | and paid sex work alongside | REUSE of 191 | 193.png (copy of 191) | slow zoom in on the heart sign |
 | 194 | 6:26–6:28 | everyday entries like grain prices | DIAGRAM | 194.png | slow pan right |
 | 195 | 6:28–6:30 | and workers' wages. Our oldest cravings | SCENE | 195.png | slow zoom out |
 | 196 | 6:30–6:32 | had become things you could | DIAGRAM | 196.png | slow pan left |
 | 197 | 6:32–6:34 | buy and sell. What once got | SCENE | 197.png | slow zoom in |
-| 198 | 6:34–6:36 | people through long Ice Age nights | REUSE of 089 | 198 REUSE of 089 - zoom out.png | slow zoom out |
+| 198 | 6:34–6:36 | people through long Ice Age nights | REUSE of 089 | 198.png (copy of 089) | slow zoom out |
 | 199 | 6:36–6:38 | grew into entire industries. | SCENE | 199.png | slow zoom out |
 | 200 | 6:38–6:40 | Bone flutes led to music streaming. | DIAGRAM | 200.png | slow pan left |
 | 201 | 6:40–6:42 | Knuckle bones led to Las Vegas. | DIAGRAM | 201.png | slow zoom in |
 | 202 | 6:42–6:44 | Fire-lit cave walls led to | DIAGRAM | 202.png | slow pan right |
 | 203 | 6:44–6:46 | Netflix picking your next show. | SCENE | 203.png | slow zoom out |
 | 204 | 6:46–6:48 | The fire is gone. | MOOD | 204.png | slow pan left |
-| 205 | 6:48–6:50 | The craving never left. Because the brain | REUSE of 043 | 205 REUSE of 043 - zoom in.png | slow zoom in on the sparkling eyes |
+| 205 | 6:48–6:50 | The craving never left. Because the brain | REUSE of 043 | 205.png (copy of 043) | slow zoom in on the sparkling eyes |
 | 206 | 6:50–6:52 | doing the craving is the | SCENE | 206.png | slow pan right |
 | 207 | 6:52–6:54 | same one our ancestors had. | DIAGRAM | 207.png | slow zoom out |
-| 208 | 6:54–6:56 | Inside your head is essentially the same machine | REUSE of 207 | 208 REUSE of 207 - zoom in.png | slow zoom in on the modern man's brain |
-| 209 | 6:56–6:58 | that drove someone to carve a flute | REUSE of 062 | 209 REUSE of 062 - zoom in.png | slow zoom in on the hands |
-| 210 | 6:58–7:00 | from a mammoth tusk. So when you | REUSE of 057 | 210 REUSE of 057 - zoom out.png | slow zoom out |
+| 208 | 6:54–6:56 | Inside your head is essentially the same machine | REUSE of 207 | 208.png (copy of 207) | slow zoom in on the modern man's brain |
+| 209 | 6:56–6:58 | that drove someone to carve a flute | REUSE of 062 | 209.png (copy of 062) | slow zoom in on the hands |
+| 210 | 6:58–7:00 | from a mammoth tusk. So when you | REUSE of 057 | 210.png (copy of 057) | slow zoom out |
 | 211 | 7:00–7:02 | find yourself scrolling late at night, | SCENE | 211.png | slow zoom out |
 | 212 | 7:02–7:04 | chasing one more laugh or one more | SYMBOL | 212.png | slow pan left |
 | 213 | 7:04–7:06 | hit of dopamine, go easy on yourself. | DIAGRAM | 213.png | slow zoom in |
 | 214 | 7:06–7:08 | Nothing is wrong with you. | SCENE | 214.png | slow pan right |
 | 215 | 7:08–7:10 | You're simply doing what people have always | DIAGRAM | 215.png | slow zoom out |
-| 216 | 7:10–7:12 | done when the sun goes down. | REUSE of 005 | 216 REUSE of 005 - zoom out.png | slow zoom out |
+| 216 | 7:10–7:12 | done when the sun goes down. | REUSE of 005 | 216.png (copy of 005) | slow zoom out |
 | 217 | 7:12–7:13 | You're fighting off the dark. | MOOD | 217.png | slow zoom in |
