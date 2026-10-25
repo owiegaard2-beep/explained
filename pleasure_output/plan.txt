@@ -2,7 +2,7 @@
 002|DIAGRAM|Timeline arrow pointing left from a small smartphone icon to a small campfire icon, label|40,000 YEARS AGO
 003|SCENE|A woolly mammoth walking away in the distance while the ancestor peeks out from behind a rock, relieved|
 004|SCENE|The ancestor wrapped in his fur, snowflakes falling around him, giving a happy thumbs up|
-005|MOOD|An orange sun sinking behind dark rolling hills, the sky turning from orange to navy|
+005|MOOD|Dusk landscape: a big round orange sun setting behind gentle rolling hills, the sky fading from warm orange at the bottom to navy blue at the top|
 006|SYMBOL|The campfire crackling with orange sparks flying up, on a navy night background|
 007|DIAGRAM|A round clock face with six hours shaded navy from sunset to midnight, label|6 LONG HOURS
 008|SYMBOL|A smartphone with a big red X over it|
@@ -74,7 +74,7 @@
 074|SCENE|The ancestor playing the bone flute with his eyes closed, smiling, music notes floating up|
 075|MOOD|Navy night sky full of stars, music notes drifting up from a glowing campfire|
 076|SCENE|The modern man with a mind-blown face, hands on his head|
-077|SYMBOL|A finger with a tiny cut and a red warning triangle above it|
+077|SYMBOL|A cartoon fingertip with a tiny scratch line and a small red warning triangle above it|
 078|REUSE 067 + slow zoom in on the carving hands|
 079|SYMBOL|The bone flute on a small stone pedestal, glowing softly|
 080|MOOD|A warm orange glow around a group of ancestors by the campfire with their eyes closed, relaxed, music notes in the air|
@@ -93,7 +93,7 @@
 093|SCENE|The ancestor crouched in a runner's starting pose, ready to sprint|
 094|TEXT CARD|Navy card, small red lightning bolt icon|BUILT FOR THRILLS
 095|DIAGRAM|A simple body outline with a pounding red heart and a red lightning bolt rushing through it|
-096|SCENE|Ancestors with spears chasing a woolly rhino, action lines|
+096|SCENE|Ancestors running excitedly after a big woolly rhino across a grassy plain, cartoon action lines, adventurous mood|
 097|SCENE|The ancestor sitting by the campfire, full belly, holding a meat bone, cozy in his fur|
 098|DIAGRAM|Three icons with green ticks: the campfire, a roasted meat leg, a hide tent, labels under each|WARM · FED · SAFE
 099|MOOD|Navy gloom, the ancestor sitting next to a cave wall of tally marks counting empty days, blank stare|
@@ -104,7 +104,7 @@
 104|DIAGRAM|Simple world map with many red dots scattered across every continent|
 105|REUSE 104 + slow pan across the map|
 106|DIAGRAM|A long timeline with small knucklebone icons appearing at many points along it|
-107|DIAGRAM|A sheep, a goat and a deer side by side, a red circle on each ankle, labels under each|SHEEP · GOAT · DEER
+107|DIAGRAM|A cute cartoon sheep, goat and deer standing side by side, each with a small red circle highlighting its back ankle, labels under each|SHEEP · GOAT · DEER
 108|SYMBOL|One knucklebone close-up, label|ASTRAGALUS
 109|REUSE 108 + slow zoom out|
 110|DIAGRAM|One knucklebone shown in four landing positions, each lying on a different side|
@@ -116,15 +116,15 @@
 116|SYMBOL|A bundle of stone-tipped arrows being pushed forward as a bet|
 117|SYMBOL|A folded shaggy fur pelt being pushed forward as a bet|
 118|SYMBOL|A roasted meat leg on a stick|
-119|SCENE|The ancestor with a shocked face as another ancestor walks off happily carrying his fur, knucklebones on the ground|
+119|SCENE|The ancestor with a shocked face as another ancestor walks off happily carrying away a big fur pelt he just won, knucklebones on the ground|
 120|MOOD|Icy blue background, the ancestor without his fur shivering, hugging his arms around himself, first snowflakes falling|
 121|DIAGRAM|A long timeline: the knucklebones far left, then a pile of coins, then a roulette wheel, then a stock market chart far right|
 122|REUSE 121 + slow pan right to the stock chart|
-123|SCENE|The ancestor pushing his spear, his fur and his food into the middle, all in|
+123|SCENE|The ancestor pushing his spear, a spare fur pelt and his food into the middle of the circle, going all in|
 124|REUSE 102 + slow zoom in on one knucklebone|
 125|DIAGRAM|A pile of loot with a big red X over it|
 126|SCENE|Ancestors cheering wildly with their arms up as the knucklebones land|
-127|MOOD|Night, excited faces glowing orange around a campfire, sparks flying|
+127|MOOD|Night, excited faces of ancestors glowing orange around a campfire, sparks flying|
 128|DIAGRAM|An evolution arrow from the knucklebones to the Senet board|
 129|TEXT CARD|Navy card, small pyramid icon|5,000 YEARS AGO
 130|SCENE|Ancient Egypt: pyramids in sand ochre desert beside the blue Nile under a sky blue sky|
@@ -163,7 +163,7 @@
 163|SYMBOL|A cave painting of a bison drawn with eight overlapping legs, red circles around the extra legs|
 164|DIAGRAM|Three frames in a row like a flipbook showing the painted horse's legs in different galloping positions|
 165|MOOD|Long flickering shadows stretching across the cave wall in orange torchlight|
-166|SCENE|A group of ancestors sitting on the cave floor in the dark, looking up at the painted wall|
+166|SCENE|A cozy group of ancestors sitting together inside a cave, faces lit warmly by torchlight, all looking up at animal paintings on the wall|
 167|SCENE|A storyteller ancestor gesturing dramatically with a torch, the others listening wide-eyed|
 168|REUSE 162 + slow pan across the moving animals|
 169|SCENE|Ancestors sitting in a row like a cinema audience facing the painted wall, one holding a bowl of berries like popcorn|
@@ -181,7 +181,7 @@
 181|DIAGRAM|A family tree web connecting the faces of a small band sitting around a campfire, label|BAND OF 40
 182|SCENE|The ancestor playing the bone flute for his smiling grandmother|
 183|SCENE|The ancestor holding out his hand for payment after playing to his uncle, the uncle shocked, a red X above|
-184|SCENE|A crowded city street full of strangers, nobody looking at each other|
+184|SCENE|A crowded ancient mud-brick city street full of strangers, nobody looking at each other|
 185|DIAGRAM|Two strangers trading, a sack of barley and a clay jar swapping hands with arrows|
 186|DIAGRAM|The bone flute, an arrow, then a small pile of silver rings, labels under each|FUN · BUSINESS
 187|REUSE 186 + slow zoom in on the silver|
@@ -199,7 +199,7 @@
 199|SCENE|A small campfire in the foreground with a modern city skyline of tall glowing buildings rising behind it|
 200|DIAGRAM|The bone flute, an arrow, then a smartphone playing music with headphones|
 201|DIAGRAM|The knucklebones, an arrow, then a casino with slot machines and neon lights|
-202|DIAGRAM|A torch-lit cave painting of a horse, an arrow, then a flat-screen TV|
+202|DIAGRAM|A simple horse drawing on a rock wall lit by a small torch, a big arrow pointing right, then a flat-screen TV showing the same horse|
 203|SCENE|The modern man on a sofa with a remote, the TV showing a grid of show thumbnails|
 204|MOOD|A cold campfire of grey ashes with one thin wisp of smoke, navy night|
 205|REUSE 043 + slow zoom in on the sparkling eyes|
@@ -211,7 +211,7 @@
 211|SCENE|The modern man in bed at night, face lit up by his phone, scrolling|
 212|SYMBOL|A smartphone with a laughing face on the screen and a looping down arrow|
 213|DIAGRAM|The brain character with a bright sparkle burst, label|DOPAMINE
-214|SCENE|The ancestor sitting on the edge of the bed, a reassuring hand on the modern man's shoulder|
+214|SCENE|The ancestor kindly patting the modern man on the shoulder as the modern man looks up from his phone, both smiling|
 215|DIAGRAM|Split image: left the ancestor by a campfire at night, right the modern man with his phone at night, both faces glowing orange|
 216|REUSE 005 + slow zoom out|
 217|MOOD|The ancestor and the modern man sitting side by side at a campfire, glowing warm against the surrounding darkness|
